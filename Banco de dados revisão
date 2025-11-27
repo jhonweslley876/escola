@@ -1,0 +1,15 @@
+O que é SGBD
+
+* Gerencia armazenamento e recuperação de dados
+
+* Primary Key
+ - Identifica unicamente o registro
+
+* insert into
+* where
+* values
+
+O que é SQL
+
+* select
+* create
